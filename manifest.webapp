@@ -1,0 +1,19 @@
+{
+  "name": "フォクすけ探偵",
+  "description": "フォクすけの探偵物語",
+  "launch_path": "/index.html",
+  "icons": {
+    "256": "/data/image/fokusuke256.png",
+    "128": "/data/image/fokusuke128.png",
+    "120": "/data/image/fokusuke120.png",
+    "90": "/data/image/fokusuke90.png",
+    "60": "/data/image/fokusuke60.png"
+  },
+  "developer": {
+    "name": "Tecco's Project",
+    "url": "http://tecc0.com"
+  },
+  "orientation": "landscape",
+  "fullscreen": "true",
+  "default_locale": "ja"
+}
